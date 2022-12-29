@@ -1,0 +1,19 @@
+.Headlogo{
+    margin-right: 0rem;
+    margin-left: 35px;
+    font-size: xx-large;
+    color: rgb(51, 49, 49);
+   
+    
+}
+.Links{
+ width:20rem;
+display: flex;
+justify-content: space-between;
+margin-right: 30px;
+}
+
+.stylelist:hover{
+   color: rgb(97, 213, 120) !important;
+   
+}
